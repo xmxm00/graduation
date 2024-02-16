@@ -39,4 +39,14 @@
 
 -240125 탄소중립 키워드 포함
 
-  carbond 논문 확인~
+  carbond 논문 확인. Embodied emission과 Operational emission에 대해 관찰
+
+-240131 
+
+-240208 벤치마크 관련
+
+  메모리 초기화 등 기본 작업 진행. 
+
+-240216 ACT, carbond
+
+  carbon footprint 계산을 위한 두개의 논문을 확인. ACT의 공개된 코드 확인. carbond의 공개된 코드 확인.
